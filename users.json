@@ -1,0 +1,52 @@
+{
+  "User": [
+    {
+      "ID": 0,
+      "name": "Admin",
+      "login": "admin1",
+      "password": "p@SSw0rd",
+      "money": 190340.0,
+      "role": "admin"
+    },
+    {
+      "ID": 1,
+      "name": "User1",
+      "login": "user1",
+      "password": "p@SSw0rd",
+      "money": 860.0,
+      "role": "client"
+    },
+    {
+      "ID": 2,
+      "name": "lox",
+      "login": "lox",
+      "password": "lox",
+      "money": 1420.0,
+      "role": "client"
+    },
+    {
+      "ID": 3,
+      "name": "fox",
+      "login": "fox",
+      "password": "fox",
+      "money": 1583.0,
+      "role": "client"
+    },
+    {
+      "ID": 4,
+      "name": "dddd",
+      "login": "dddd",
+      "password": "dddd",
+      "money": 840.0,
+      "role": "client"
+    },
+    {
+      "ID": 5,
+      "name": "ffff",
+      "login": "ffff",
+      "password": "ffff",
+      "money": 1500.0,
+      "role": "client"
+    }
+  ]
+}

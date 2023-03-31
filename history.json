@@ -1,0 +1,19 @@
+{
+  "Orders": [
+    {
+      "user_id": 0,
+      "summ": 0.0,
+      "compound": "null"
+    },
+    {
+      "user_id": 3,
+      "summ": 1555.0,
+      "compound": "fkfjgfgfgfg"
+    },
+    {
+      "user_id": 3,
+      "summ": 182.0,
+      "compound": "['water', 'cherry_tomatoes', 'shrimps', 'olive', 'champignon', 'soy_sauce', 'lemongrass', 'cilantro', 'thaisleg']"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "Product": [
+    {
+      "name": "water",
+      "count": 129,
+      "cost": 5
+    },
+    {
+      "name": "chicken_bouillon",
+      "count": 41,
+      "cost": 30
+    },
+    {
+      "name": "vegetable",
+      "count": 32,
+      "cost": 20
+    },
+    {
+      "name": "cherry_tomatoes",
+      "count": 23,
+      "cost": 50
+    },
+    {
+      "name": "vegetable_marrow",
+      "count": 9,
+      "cost": 30
+    },
+    {
+      "name": "onion",
+      "count": 39,
+      "cost": 15
+    },
+    {
+      "name": "shrimps",
+      "count": 1,
+      "cost": 85
+    },
+    {
+      "name": "calamry",
+      "count": 9,
+      "cost": 85
+    },
+    {
+      "name": "chicken",
+      "count": 20,
+      "cost": 60
+    },
+    {
+      "name": "olive",
+      "count": 1,
+      "cost": 20
+    },
+    {
+      "name": "sunflower",
+      "count": 8,
+      "cost": 10
+    },
+    {
+      "name": "soy_oil",
+      "count": 10,
+      "cost": 50
+    },
+    {
+      "name": "champignon",
+      "count": 0,
+      "cost": 35
+    },
+    {
+      "name": "enoki",
+      "count": 9,
+      "cost": 50
+    },
+    {
+      "name": "shiitake",
+      "count": 9,
+      "cost": 50
+    },
+    {
+      "name": "soy_sauce",
+      "count": 2,
+      "cost": 45
+    },
+    {
+      "name": "fish",
+      "count": 8,
+      "cost": 65
+    },
+    {
+      "name": "oyster",
+      "count": 9,
+      "cost": 95
+    },
+    {
+      "name": "lemongrass",
+      "count": 1,
+      "cost": 10
+    },
+    {
+      "name": "galangal",
+      "count": 7,
+      "cost": 15
+    },
+    {
+      "name": "coconut_milk",
+      "count": 10,
+      "cost": 65
+    },
+    {
+      "name": "cilantro",
+      "count": 2,
+      "cost": 10
+    },
+    {
+      "name": "lime",
+      "count": 7,
+      "cost": 30
+    },
+    {
+      "name": "sesame_oil",
+      "count": 9,
+      "cost": 55
+    },
+    {
+      "name": "thaisleg",
+      "count": 1000,
+      "cost": 0
+    }
+  ]
+}
